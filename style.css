@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(210, 213, 216);
+}
+h3{
+    font-size: 24px;
+}
+table, th, td{
+    border: 1px solid white;
+  border-collapse: collapse;
+    
+}
+th, td{
+    background-color: rgb(210, 213, 216);
+}
+table{
+    position: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+a{
+    color: rgb(62, 60, 60);
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+#menu-part{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 13px;
+}
+#main-part{
+    margin-left: 40%;
+    margin-right: 5%;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+#introduction{
+
+}
+
+#whatyoushouldalreadyknow{
+
+}
+
+#jsandjava{
+
+}
+
+#helloworld{
+
+}
+
+#variables{
+
+
+}
+
+#declaringvariables{
+
+}
+
+#variablescope{
+
+
+}
+
+#globalvariables{
+
+}
+
+#constants{
+
+
+}
+
+#datatypes{
+
+
+}
+
+#ifelse{
+
+
+}
+
+#while{
+
+
+}
+
+#function{
+
+
+}
+
+#reference{
+
+
+}
+
